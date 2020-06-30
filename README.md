@@ -1,9 +1,13 @@
 # ProgrammingLanguageImp
-Implementation of a user-designed programming language in Java
 
-Conceptualized and established the method of scanner, parser, type checker, code generator and runtime logger
+Designed a new programming language which is similar to Java and implemented corresponding compiler using Java language.
 
-Developed the function for lexical analysis, semantic analysis, naming scopes and binding, lambda calculus
+Tokenized input programming codes by applying lexical analysis methods.
+
+Supported user to scan, parse, check types and generate codes.
+
+Transferred users’ codes into Bytecode which could be executed directly in JVM.
+
 
 Requirement:
 
